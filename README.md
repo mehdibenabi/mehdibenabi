@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Benabi</h1>
-<h3 align="center">A Computer Science Student and a passionate Full-Stack developer & UI-UX Designer ...</h3>
+<h3 align="center">A Computer Vision Master Student and a passionate Full-Stack developer & Product Designer ...</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" >
 
 - 💬 Ask me about **Tech**
