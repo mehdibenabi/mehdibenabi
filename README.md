@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Vision & AI Master Student || Software Engineer </h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" >
 
-- 💬 Ask me about **Tech** **WEB** **AI**
+- 💬 Ask me about **Tech** / **WEB** / **AI**
 
 - 📫 How to reach me **medmehdibenabi@gmail.com**
 
