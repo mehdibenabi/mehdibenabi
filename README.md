@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **medmehdibenabi@gmail.com**
 
-- -Portfolio : https://mehdibenabi.vercel.app/
+- Portfolio : https://mehdibenabi.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
