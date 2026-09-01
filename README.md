@@ -2,9 +2,9 @@
 <h3 align="center"> Machine Learning Engineer @UniLincoln (MSc) | Software Engineer @USTHB (BSc)   </h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" >
 
-- Ask me about **Tech** 
+- Ask me about **Technology** 
 
-- How to reach me **medmehdibenabi@gmail.com**
+- How to reach me: **medmehdibenabi@gmail.com**
 
 - Portfolio: **https://mehdibenabi.vercel.app/**
 
